@@ -15,14 +15,14 @@
   - 사용기술
    - Python
  - 공공API를 활용한 실시간 지하철 모니터링 서비스 개발 (22-1학기 IoT 네트워크)
-  - 사용기술 
-   - HTML
-   - Mongo DB
-   - Java
-   - Js
+   - 사용기술 
+     - HTML
+     - Mongo DB
+     - Java
+     - Js
  - 실시간 이미지 모자이크 구현 (22-1학기 영상처리프로그래밍)
-  - 사용기술
-   - Python
+   - 사용기술
+     - Python
  
  
 
