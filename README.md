@@ -16,8 +16,11 @@
     - JavaScript
     - jsp
     - Mysql 
-
- - 공공API를 활용한 실시간 지하철 모니터링 서비스 개발 (22-1학기 IoT 네트워크)
+ - 지역 스터디 모임 커뮤니티 웹사이트 구현 (22-2학기 오픈소스SW 개발도구활용)
+    - Nodejs
+    - html (ejs)
+    - MongoDB
+ - 공공API를 활용한 실시간 지하철 모니터링 서비스 (22-1학기 IoT 네트워크)
     - HTML
     - Mongo DB
     - Java
