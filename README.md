@@ -5,7 +5,7 @@
 ### 연락처 : 010-8752-8309
 ### 이메일 : *ygvhn753@naver.com*
 
-## ![ability](https://github.com/jeeunKim/jeeunKim/assets/115774268/4dc96b65-18ec-4346-a075-e11cbb10739a) 기술
+## 기술
  - Java
  - Spring
  - Mysql
