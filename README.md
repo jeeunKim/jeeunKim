@@ -12,7 +12,7 @@
 
 ### 프로젝트
 
- - MVC 모델로 종합 쇼핑몰 웹사이트 구현
+ - MVC 모델로 종합 쇼핑몰 웹사이트 구현 (23-01~02월 pre-capstone-design)
     - Java
     - JavaScript
     - jsp
