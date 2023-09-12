@@ -1,4 +1,4 @@
-# ![self-introduction](https://github.com/jeeunKim/jeeunKim/assets/115774268/9602897c-f504-4590-807e-5b2692e335b9) 소개
+# 소개
 
 ### 이름 : 김제은
 ### 학적 : Hallym Univ. Junior.
