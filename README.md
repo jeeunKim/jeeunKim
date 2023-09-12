@@ -21,7 +21,7 @@
 
 ### 프로젝트
  
- - MVC 패턴으로 레시피 공유 웹사이트 구현 (23-01~02월 pre-capstone-design)
+ - MVC 패턴으로 레시피 공유 웹사이트 구현 (23-01~02월 웹서버구축)
     - Java
     - JavaScript
     - jsp
