@@ -1,10 +1,11 @@
-## 소개
+# ![self-introduction](https://github.com/jeeunKim/jeeunKim/assets/115774268/9602897c-f504-4590-807e-5b2692e335b9) 소개
+
 ### 이름 : 김제은
 ### 학적 : Hallym Univ. Junior.
 ### 연락처 : 010-8752-8309
 ### 이메일 : *ygvhn753@naver.com*
 
-# 기술
+## ![ability](https://github.com/jeeunKim/jeeunKim/assets/115774268/4dc96b65-18ec-4346-a075-e11cbb10739a) 기술
  - Java
  - Spring
  - Mysql
@@ -13,13 +14,7 @@
  - CSS
    
 
-### Working Experience
- - (18.03 ~ ) 한림대학교 입학
- - (19.05 ~ 20.12) 군복무
- - (22.03 ~ ) 한림대학교 정보과학대학 학술동아리 '노네임'
- - (22.05 ~ 22.08) 코멘토 직무부트캠프 'SQL 입문부터 활용까지 - 데이터 분석 보고서 작성과 대시보드 개발' 수료
-
-### 프로젝트
+## ![laptop](https://github.com/jeeunKim/jeeunKim/assets/115774268/5fc48655-0884-416b-a312-9338ccfcc78c) 프로젝트 경험 
  
  - MVC 패턴으로 레시피 공유 웹사이트 구현 (23-01~02월 웹서버구축)
     - Java
@@ -51,5 +46,9 @@
     - Python(openCV)
     
 
-
+## Working Experience
+ - (18.03 ~ ) 한림대학교 입학
+ - (19.05 ~ 20.12) 군복무
+ - (22.03 ~ ) 한림대학교 정보과학대학 학술동아리 '노네임'
+ - (22.05 ~ 22.08) 코멘토 직무부트캠프 'SQL 입문부터 활용까지 - 데이터 분석 보고서 작성과 대시보드 개발' 수료
 
