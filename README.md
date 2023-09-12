@@ -4,7 +4,7 @@
 ### 연락처 : 010-8752-8309
 ### 이메일 : *ygvhn753@naver.com*
 
-### 기술
+# 기술
  - Java
  - Spring
  - Mysql
