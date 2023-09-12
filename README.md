@@ -4,6 +4,15 @@
 ### 연락처 : 010-8752-8309
 ### 이메일 : *ygvhn753@naver.com*
 
+### 기술
+ - Java
+ - Spring
+ - Mysql
+ - MtBatis
+ - HTML
+ - CSS
+   
+
 ### Working Experience
  - (18.03 ~ ) 한림대학교 입학
  - (19.05 ~ 20.12) 군복무
@@ -11,8 +20,14 @@
  - (22.05 ~ 22.08) 코멘토 직무부트캠프 'SQL 입문부터 활용까지 - 데이터 분석 보고서 작성과 대시보드 개발' 수료
 
 ### 프로젝트
-
- - MVC 모델로 종합 쇼핑몰 웹사이트 구현 (23-01~02월 pre-capstone-design)
+ 
+ - MVC 패턴으로 레시피 공유 웹사이트 구현 (23-01~02월 pre-capstone-design)
+    - Java
+    - JavaScript
+    - jsp
+    - Mysql
+    - 
+ - MVC 패턴으로 종합 쇼핑몰 웹사이트 구현 (23-01~02월 pre-capstone-design)
     - Java
     - JavaScript
     - jsp
