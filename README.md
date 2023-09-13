@@ -7,16 +7,22 @@
 
 
 
-## 기술
+## Stack
  - Java
  - Spring
  - MySql
  - MyBatis
- - HTML
- - CSS
+ - HTML5
+ - CSS3
    
+## Tools
+ - Eclipse
+ - Github
+ - Tomcat
+ - Visual Studio code
 
-## 프로젝트 경험 
+   
+## Projects 
  
  - MVC 패턴으로 레시피 공유 웹사이트 구현 (23-01~02월 웹서버구축)
     - Java
@@ -48,7 +54,7 @@
     - Python(openCV)
 
 
-## Working Experience
+## Experience
 
  - (23.01 ~ 23.02) 한림대학교 동계 Pre - Capstone Design 교육 이수 및 수상
  - (22.05 ~ 22.08) 코멘토 직무부트캠프 'SQL 입문부터 활용까지 - 데이터 분석 보고서 작성과 대시보드 개발' 수료
