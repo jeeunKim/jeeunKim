@@ -1,5 +1,5 @@
 # 소개
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
+
 ### 이름 : 김제은
 ### 학적 : Hallym Univ. Junior.
 ### 연락처 : 010-8752-8309
