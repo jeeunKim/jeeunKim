@@ -10,8 +10,8 @@
 ## 기술
  - Java
  - Spring
- - Mysql
- - MtBatis
+ - MySql
+ - MyBatis
  - HTML
  - CSS
    
