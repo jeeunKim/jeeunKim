@@ -8,6 +8,7 @@
 
 
 ## Stack
+ - 정보처리기사
  - Java
  - Spring
  - MySql
