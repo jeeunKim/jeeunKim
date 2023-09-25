@@ -10,9 +10,10 @@
 ## Stack
  - 정보처리기사
  - Java
- - Spring
+ - Spring framework
  - MySql
  - MyBatis
+ - Thymeleaf
  - HTML5
  - CSS3
    
