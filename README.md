@@ -21,7 +21,7 @@
  - Eclipse
  - Github
  - Tomcat
- - Visual Studio code
+ - Postman
 
    
 ## Projects 
