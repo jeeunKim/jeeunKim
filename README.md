@@ -1,4 +1,4 @@
-<span style="font-size: 100px; color: green">Introduce</span>
+# Introduce
 ---
 ### <img src="https://github.com/jeeunKim/jeeunKim/assets/115774268/4cd70609-5085-400e-a8cf-3f6f667cc7b2"  width="50" height="50"/>  : 김제은
 ### <img src="https://github.com/jeeunKim/jeeunKim/assets/115774268/d1afb32b-57c1-46e8-bfcc-b08c4f7ca256"  width="50" height="50"/> : Hallym Univ.
