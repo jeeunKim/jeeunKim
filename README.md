@@ -75,6 +75,9 @@
 #  <img src="https://github.com/jeeunKim/jeeunKim/assets/115774268/9cfdbac4-689c-49eb-992e-15109bbb0ed6"  width="55" height="40"/> *자격증* 
 **정보처리기사**
 
+ <br>
+</br>
+
 # *Experience*
  - (23.07 ~ 23.09) '우아한형제들 최연소 기술이사 김영한의 스프링 완전 정복' 로드맵 교육 이수
  - (23.01 ~ 23.02) 한림대학교 동계 Pre - Capstone Design 교육 이수 및 수상
