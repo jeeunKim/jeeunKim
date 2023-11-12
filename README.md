@@ -1,9 +1,9 @@
-# <img src="https://github.com/jeeunKim/jeeunKim/assets/115774268/9ba6d7f8-1083-47a2-be4a-98ef8bb82cbc"  width="100" height="100"/> *소개*
+# <img src="https://github.com/jeeunKim/jeeunKim/assets/115774268/9ba6d7f8-1083-47a2-be4a-98ef8bb82cbc"  width="100" height="100"/>
 
-### [이름](https://github.com/jeeunKim/jeeunKim/assets/115774268/9ba6d7f8-1083-47a2-be4a-98ef8bb82cbc) : 김제은
+### <img src="https://github.com/jeeunKim/jeeunKim/assets/115774268/4cd70609-5085-400e-a8cf-3f6f667cc7b2"  width="50" height="50"/>  : 김제은
 ### [학적](https://github.com/jeeunKim/jeeunKim/assets/115774268/9ba6d7f8-1083-47a2-be4a-98ef8bb82cbc) : Hallym Univ.
 ### [연락처](https://github.com/jeeunKim/jeeunKim/assets/115774268/9ba6d7f8-1083-47a2-be4a-98ef8bb82cbc) : 010-8752-8309 
-### <img src="https://github.com/jeeunKim/jeeunKim/assets/115774268/4cd70609-5085-400e-a8cf-3f6f667cc7b2"  width="40" height="40"/>  : wpdms991229@naver.com
+### <img src="https://github.com/jeeunKim/jeeunKim/assets/115774268/4cd70609-5085-400e-a8cf-3f6f667cc7b2"  width="50" height="50"/>  : wpdms991229@naver.com
 
 
 
