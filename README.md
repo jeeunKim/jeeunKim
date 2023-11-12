@@ -12,7 +12,7 @@
 
 |**Language & FrameWork**|**Database & Server**|**Tools**|**ETC**|
 |:---:|:---:|:---:|:---:|
-|<img src="https://github.com/jeeunKim/jeeunKim/assets/115774268/d883a9c0-7708-46af-8268-b17bc32b8d8d"  width="50" height="50"/> <br> **JAVA**||||
+|<img src="https://github.com/jeeunKim/jeeunKim/assets/115774268/d883a9c0-7708-46af-8268-b17bc32b8d8d"  width="50" height="50"/> <br> **JAVA**|<img src="https://github.com/jeeunKim/jeeunKim/assets/115774268/89e9c1cf-5ed4-4312-a87d-6d507cef5388"  width="50" height="50"/> <br> **MySql**|||
 |||||
 |||||
 
