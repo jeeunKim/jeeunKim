@@ -1,4 +1,4 @@
-  <img src="https://github.com/jeeunKim/jeeunKim/assets/115774268/e3ed39e9-5a6e-4bdb-8402-c48630f257c8"  width="200" height="200"/>
+<img src="https://github.com/jeeunKim/jeeunKim/assets/115774268/e3ed39e9-5a6e-4bdb-8402-c48630f257c8"  width="200" height="200"/>
 # Introduce 
 <br>
 
