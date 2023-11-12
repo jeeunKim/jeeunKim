@@ -36,30 +36,37 @@
 
 
   - 지도 위의 떨이 마켓 ###StockTracker [코드 리뷰](https://github.com/jeeunKim/StockTracker/tree/main/capstone/src/main/java/hello/capstone)
-    - Java
-    - Spring Boot
-    - MySql
-    - MyBatis
-    - Github
-    - Postman
+    - 카카오, 네이버 소셜 로그인
+    - 아이디, 비밀번호 찾기 휴대폰 인증 문자 발송
+    - 회원가입 비밀번호 암호화 및 Validation
+    - 페이지별 Intetceptor
+    - 현재 위치를 기반으로 한 지도와 가게 마커표시
+    - 거리, 마감기한, 가격, 별점 필터링 기능
+    - 가게, 아이템, 공지사항, 문의 CRUD 및 Validation
+    - 즐겨찾기한 가게, 공지사항 알림 기능
+    - Scheduled를 이용한 아이템 자동삭제
+    - 관리자 페이지
      
  <br>
 </br>
 
   - 레시피 공유 웹사이트 ###ShareRecipe [코드 리뷰](https://github.com/jeeunKim/2023-1-Recipe-Web)
-    - Java
-    - JavaScript
-    - jsp
-    - MySql
+    - 로그인 및 회원가입
+    - 레시피 등록 및 파일 등록 기능
+    - 검색 기능
+    - 댓글 기능
+    - 팔로우 기능
+    - 인기순으로 나열, 팔로우한 사람의 레시피만 나열하기
+    - 관리자 페이지
     
   <br>
 </br>
 
   - 종합 쇼핑몰 웹사이트
-    - Java
-    - JavaScript
-    - jsp
-    - MySql 
+    - 로그인 및 회원가입
+    - 상품 카테고리별 분류
+    - 장바구니
+    - 댓글 기능
 
 <br>
 </br>
