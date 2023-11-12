@@ -7,7 +7,7 @@
 
 
 
-## Stack
+# *Stack*
  - 정보처리기사
  - Java
  - Spring Boot
@@ -17,14 +17,14 @@
  - HTML5
  - CSS3
    
-## Tools
+# *Tools*
  - Eclipse
  - Github
  - Tomcat
  - Postman
 
    
-## Projects 
+#*Projects* 
 
 
   - 지도 위의 떨이 마켓 ###StockTracker
@@ -48,7 +48,7 @@
     - MySql 
 
 
-## Experience
+# *Experience*
 
  - (23.01 ~ 23.02) 한림대학교 동계 Pre - Capstone Design 교육 이수 및 수상
  - (22.05 ~ 22.08) 코멘토 직무부트캠프 'SQL 입문부터 활용까지 - 데이터 분석 보고서 작성과 대시보드 개발' 수료
