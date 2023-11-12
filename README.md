@@ -25,35 +25,26 @@
 
    
 ## Projects 
- 
- - MVC 패턴으로 레시피 공유 웹사이트
-    - Java
-    - JavaScript
-    - jsp
-    - Mysql
-      
- - MVC 패턴으로 종합 쇼핑몰 웹사이트
-    - Java
-    - JavaScript
-    - jsp
-    - Mysql 
-     
- - 지역 스터디 모임 커뮤니티 웹사이트
-    - Nodejs
-    - html (ejs)
-    - MongoDB
-    
- - 공공API를 활용한 실시간 지하철 모니터링 서비스
-    - HTML
-    - Mongo DB
-    - Java
-    - Js
-    
- - 이미지 다중 분류모델 구현
-    - Python
 
- - 실시간 이미지 모자이크 구현
-    - Python(openCV)
+  - 지도 위의 떨이 마켓 ###StockTracker
+    - Java
+    - Spring Boot
+    - MySql
+    - MyBatis
+    - Github
+    - Postman
+      
+ - 레시피 공유 웹사이트 ###ShareRecipe
+    - Java
+    - JavaScript
+    - jsp
+    - MySql
+      
+ - 종합 쇼핑몰 웹사이트
+    - Java
+    - JavaScript
+    - jsp
+    - MySql 
 
 
 ## Experience
