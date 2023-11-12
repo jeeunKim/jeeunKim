@@ -18,22 +18,6 @@
 |||<img src="https://github.com/jeeunKim/jeeunKim/assets/115774268/e5be045e-e20a-4388-84d7-419e10ef50e8"  width="80" height="80"/>| <img src="https://github.com/jeeunKim/jeeunKim/assets/115774268/d6e802fe-55b8-4ab2-9c73-874893128a3f"  width="60" height="70"/> |
 
 
-# *Stack*
- - 정보처리기사                       
- - Java                               
- - Spring Boot
- - MySql
- - MyBatis
- - Thymeleaf
- - HTML5
- - CSS3
-   
-## *Tools*
- - Eclipse
- - Github
- - Tomcat
- - Postman
-
 <br>
 </br>
 
