@@ -19,7 +19,7 @@
 <br>
 </br>
 
-#  <img src="https://github.com/jeeunKim/jeeunKim/assets/115774268/2cfa7008-519d-43fc-b3bf-8fc9f9562c24"  width="70" height="50"/> *Stack* 
+#  <img src="https://github.com/jeeunKim/jeeunKim/assets/115774268/2cfa7008-519d-43fc-b3bf-8fc9f9562c24"  width="50" height="50"/> *Stack* 
 
 |**Language & Framework**|<**Database & Server** |**Tools**|<span> **ETC** |
 |:---:|:---:|:---:|:---:|
