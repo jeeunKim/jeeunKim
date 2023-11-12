@@ -32,7 +32,7 @@
 <br>
 </br>
 
-#  <img src="https://github.com/jeeunKim/jeeunKim/assets/115774268/a0c972a6-9bf2-4e68-b935-ebbd9b2aa66d"  width="60" height="60"/> *Projects* 
+#  <img src="https://github.com/jeeunKim/jeeunKim/assets/115774268/566662fe-e35e-4607-b6df-ad0a75eed247"  width="70" height="70"/> *Projects* 
 
 <br>
 
