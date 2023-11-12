@@ -1,9 +1,9 @@
 # *소개*
 
-* 이름 : 김제은
-* 학적 : Hallym Univ.
-* 연락처 : 010-8752-8309
-* 이메일 : wpdms991229@naver.com
+### 이름 : 김제은
+### 학적 : Hallym Univ.
+### 연락처 : 010-8752-8309
+### 이메일 : wpdms991229@naver.com
 
 
 
@@ -17,7 +17,7 @@
  - HTML5
  - CSS3
    
-# *Tools*
+## *Tools*
  - Eclipse
  - Github
  - Tomcat
