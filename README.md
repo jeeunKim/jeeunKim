@@ -1,6 +1,6 @@
 <img src="https://github.com/jeeunKim/jeeunKim/assets/115774268/e3ed39e9-5a6e-4bdb-8402-c48630f257c8"  width="200" height="200"/>
 
-<span style="font-size:250%">폰트사이즈 250</span> 
+<h1>제목 1</h1>
 
 <br>
 
