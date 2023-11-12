@@ -7,7 +7,7 @@
 
 
  
- &nbsp;&nbsp;**김제은**
+ &nbsp;&nbsp;**김제은**  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**한림대학교 (졸업예정)**
 
 
 <br>
