@@ -6,7 +6,7 @@
 ### <img src="https://github.com/jeeunKim/jeeunKim/assets/115774268/dfe018d6-e75f-4d7a-b556-30841ae90fb8"  width="50" height="50"/>  : wpdms991229@naver.com
 
 
-<br>
+</br>
 # *Stack*
  - 정보처리기사                       
  - Java                               
@@ -34,12 +34,14 @@
     - MyBatis
     - Github
     - Postman
+    - 
   <br>    
  - 레시피 공유 웹사이트 ###ShareRecipe [코드 리뷰](https://github.com/jeeunKim/2023-1-Recipe-Web)
     - Java
     - JavaScript
     - jsp
     - MySql
+    - 
    <br>   
  - 종합 쇼핑몰 웹사이트
     - Java
