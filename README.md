@@ -13,12 +13,6 @@
 <br>
 </br>
 
-#  <img src="https://github.com/jeeunKim/jeeunKim/assets/115774268/9cfdbac4-689c-49eb-992e-15109bbb0ed6"  width="55" height="40"/> *자격증* 
-**정보처리기사**
-
-<br>
-</br>
-
 #  <img src="https://github.com/jeeunKim/jeeunKim/assets/115774268/2cfa7008-519d-43fc-b3bf-8fc9f9562c24"  width="40" height="40"/> *Stack* 
 
 |**Language & Framework**|<**Database & Server** |**Tools**|<span> **ETC** |
@@ -77,6 +71,9 @@
 
 <br>
 </br>
+
+#  <img src="https://github.com/jeeunKim/jeeunKim/assets/115774268/9cfdbac4-689c-49eb-992e-15109bbb0ed6"  width="55" height="40"/> *자격증* 
+**정보처리기사**
 
 # *Experience*
  - (23.07 ~ 23.09) '우아한형제들 최연소 기술이사 김영한의 스프링 완전 정복' 로드맵 교육 이수
