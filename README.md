@@ -35,7 +35,7 @@
     - Github
     - Postman
       
- - 레시피 공유 웹사이트 ###ShareRecipe
+ - 레시피 공유 웹사이트 ###ShareRecipe [코드 리뷰](https://github.com/jeeunKim/2023-1-Recipe-Web)
     - Java
     - JavaScript
     - jsp
