@@ -8,8 +8,8 @@
 
 
 # *Stack*
- - 정보처리기사                      - Github  
- - Java                               - Github
+ - 정보처리기사                       
+ - Java                               
  - Spring Boot
  - MySql
  - MyBatis
