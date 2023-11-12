@@ -24,7 +24,9 @@
  - Tomcat
  - Postman
 
-  <br> 
+<br>
+</br>
+
 # *Projects* 
 
 
@@ -36,21 +38,27 @@
     - Github
     - Postman
     - 
-  <br>    
- - 레시피 공유 웹사이트 ###ShareRecipe [코드 리뷰](https://github.com/jeeunKim/2023-1-Recipe-Web)
+ <br>
+</br>
+
+  - 레시피 공유 웹사이트 ###ShareRecipe [코드 리뷰](https://github.com/jeeunKim/2023-1-Recipe-Web)
     - Java
     - JavaScript
     - jsp
     - MySql
-    - 
-   <br>   
- - 종합 쇼핑몰 웹사이트
+    
+  <br>
+</br>
+
+  - 종합 쇼핑몰 웹사이트
     - Java
     - JavaScript
     - jsp
     - MySql 
 
 <br>
+</br>
+
 # *Experience*
 
  - (23.01 ~ 23.02) 한림대학교 동계 Pre - Capstone Design 교육 이수 및 수상
