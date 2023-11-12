@@ -1,4 +1,4 @@
- # <img src="https://github.com/jeeunKim/jeeunKim/assets/115774268/e3ed39e9-5a6e-4bdb-8402-c48630f257c8"  width="150" height="150"/> *Introduce*
+ # <img src="https://github.com/jeeunKim/jeeunKim/assets/115774268/e3ed39e9-5a6e-4bdb-8402-c48630f257c8"  width="150" height="150"/>
 
 ### <img src="https://github.com/jeeunKim/jeeunKim/assets/115774268/4cd70609-5085-400e-a8cf-3f6f667cc7b2"  width="50" height="50"/>  : 김제은
 ### <img src="https://github.com/jeeunKim/jeeunKim/assets/115774268/6138465f-d138-4edb-af6a-fcbb09f3db90"  width="50" height="30"/> : Hallym Univ.
