@@ -15,10 +15,6 @@
 
 #  <img src="https://github.com/jeeunKim/jeeunKim/assets/115774268/2cfa7008-519d-43fc-b3bf-8fc9f9562c24"  width="40" height="40"/> *Stack* 
 
-
-<br>
-</br>
-
 |**Language & Framework**|**Database & Server** |**Tools**|<span> **ETC** |
 |:---:|:---:|:---:|:---:|
 |<img src="https://github.com/jeeunKim/jeeunKim/assets/115774268/d883a9c0-7708-46af-8268-b17bc32b8d8d"  width="50" height="50"/> <br> **JAVA**|<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> |<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">|<img src="https://github.com/jeeunKim/jeeunKim/assets/115774268/1c422c04-a62a-4d8b-98b9-7e4896ccd13c"  width="90" height="70"/> <br>|
