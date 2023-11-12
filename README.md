@@ -35,7 +35,7 @@
 # *Projects* 
 
 
-  ### 지도 위의 떨이 마켓 StockTracker  --->  [코드 리뷰](https://github.com/jeeunKim/StockTracker/tree/main/capstone/src/main/java/hello/capstone)
+  ### 지도 위의 떨이 마켓   *StockTracker*  --->  [코드 리뷰](https://github.com/jeeunKim/StockTracker/tree/main/capstone/src/main/java/hello/capstone)
     - 카카오, 네이버 소셜 로그인
     - 아이디, 비밀번호 찾기 휴대폰 인증 문자 발송
     - 회원가입 비밀번호 암호화 및 Validation
@@ -50,7 +50,7 @@
  <br>
 </br>
 
-  ### 레시피 공유 웹사이트 ShareRecipe  --->  [코드 리뷰](https://github.com/jeeunKim/2023-1-Recipe-Web)
+  ## 레시피 공유 웹사이트  *ShareRecipe*  --->  [코드 리뷰](https://github.com/jeeunKim/2023-1-Recipe-Web)
     - 로그인 및 회원가입
     - 레시피 등록 및 파일 등록 기능
     - 검색 기능
@@ -62,11 +62,12 @@
   <br>
 </br>
 
-  ### 종합 쇼핑몰 웹사이트
-    - 로그인 및 회원가입
-    - 상품 카테고리별 분류
-    - 장바구니
-    - 댓글 기능
+  ## 종합 쇼핑몰 웹사이트
+    # 23.01 ~ 23.02 2인 팀프로젝트
+     - 로그인 및 회원가입
+     - 상품 카테고리별 분류
+     - 장바구니
+     - 댓글 기능
 
 <br>
 </br>
