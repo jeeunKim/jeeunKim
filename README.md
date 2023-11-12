@@ -1,6 +1,6 @@
 <img src="https://github.com/jeeunKim/jeeunKim/assets/115774268/e3ed39e9-5a6e-4bdb-8402-c48630f257c8"  width="200" height="200"/>
 
-# *Introduce*
+#  <img src="https://github.com/jeeunKim/jeeunKim/assets/115774268/15461853-35db-4908-be47-ae0435a41107"  width="40" height="40"/> *Introduce* 
 
  <span><img src="https://github.com/jeeunKim/jeeunKim/assets/115774268/4cd70609-5085-400e-a8cf-3f6f667cc7b2"  width="70" height="70"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://github.com/jeeunKim/jeeunKim/assets/115774268/6138465f-d138-4edb-af6a-fcbb09f3db90"  width="80" height="60"/>  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
  <img src="https://github.com/jeeunKim/jeeunKim/assets/115774268/35b98154-65aa-49a1-bc74-a2ce6de64b96"  width="70" height="70"/>  &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; ; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/jeeunKim/jeeunKim/assets/115774268/dfe018d6-e75f-4d7a-b556-30841ae90fb8"  width="70" height="70"/>  </span>
@@ -13,7 +13,7 @@
 <br>
 </br>
 
-# *자격증*
+#  <img src="https://github.com/jeeunKim/jeeunKim/assets/115774268/9cfdbac4-689c-49eb-992e-15109bbb0ed6"  width="55" height="40"/> *자격증* 
 **정보처리기사**
 
 <br>
