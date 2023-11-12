@@ -15,7 +15,7 @@
 
 #  <img src="https://github.com/jeeunKim/jeeunKim/assets/115774268/2cfa7008-519d-43fc-b3bf-8fc9f9562c24"  width="40" height="40"/> *Stack* 
 
-|**Language & Framework**|<**Database & Server** |**Tools**|<span> **ETC** |
+|**Language & Framework**|**Database & Server** |**Tools**|<span> **ETC** |
 |:---:|:---:|:---:|:---:|
 |<img src="https://github.com/jeeunKim/jeeunKim/assets/115774268/d883a9c0-7708-46af-8268-b17bc32b8d8d"  width="50" height="50"/> <br> **JAVA**|<img src="https://github.com/jeeunKim/jeeunKim/assets/115774268/89e9c1cf-5ed4-4312-a87d-6d507cef5388"  width="100" height="70"/> <br> |<img src="https://github.com/jeeunKim/jeeunKim/assets/115774268/7e48b4d3-040e-4564-8417-7f9262d831bc"  width="50" height="50"/> <br> **GitHub**|<img src="https://github.com/jeeunKim/jeeunKim/assets/115774268/1c422c04-a62a-4d8b-98b9-7e4896ccd13c"  width="90" height="70"/> <br>|
 |<img src="https://github.com/jeeunKim/jeeunKim/assets/115774268/015bc6e1-8d90-4e27-aa20-c6d1a6b87b82"  width="100" height="80"/> <br>|<img src="https://github.com/jeeunKim/jeeunKim/assets/115774268/616525a9-2e48-4531-8728-848c757bbf87"  width="120" height="80"/> <br>|<img src="https://github.com/jeeunKim/jeeunKim/assets/115774268/b8741cdd-0592-4a7f-9415-2377c206bd93"  width="150" height="70"/> <br> |<img src="https://github.com/jeeunKim/jeeunKim/assets/115774268/6b83e7c7-e02d-4ef5-afc6-939f33c6888c"  width="150" height="70"/> <br>|
@@ -26,9 +26,9 @@
 <br>
 </br>
 
-|**Language & Framework**|<**Database & Server** |**Tools**|<span> **ETC** |
+|**Language & Framework**|**Database & Server** |**Tools**|<span> **ETC** |
 |:---:|:---:|:---:|:---:|
-|<img src="https://github.com/jeeunKim/jeeunKim/assets/115774268/d883a9c0-7708-46af-8268-b17bc32b8d8d"  width="50" height="50"/> <br> **JAVA**|<img src="<img src="https://img.shields.io/badge/MySQL-#4479A1?style=for-the-badge&logo=MySQL&logoColor=white">"  width="100" height="70"/> <br> |<img src="https://github.com/jeeunKim/jeeunKim/assets/115774268/7e48b4d3-040e-4564-8417-7f9262d831bc"  width="50" height="50"/> <br> **GitHub**|<img src="https://github.com/jeeunKim/jeeunKim/assets/115774268/1c422c04-a62a-4d8b-98b9-7e4896ccd13c"  width="90" height="70"/> <br>|
+|<img src="https://github.com/jeeunKim/jeeunKim/assets/115774268/d883a9c0-7708-46af-8268-b17bc32b8d8d"  width="50" height="50"/> <br> **JAVA**|<img src="https://img.shields.io/badge/MySQL-#4479A1?style=for-the-badge&logo=MySQL&logoColor=white">  width="100" height="70"/> <br> |<img src="https://github.com/jeeunKim/jeeunKim/assets/115774268/7e48b4d3-040e-4564-8417-7f9262d831bc"  width="50" height="50"/> <br> **GitHub**|<img src="https://github.com/jeeunKim/jeeunKim/assets/115774268/1c422c04-a62a-4d8b-98b9-7e4896ccd13c"  width="90" height="70"/> <br>|
 |<img src="https://github.com/jeeunKim/jeeunKim/assets/115774268/015bc6e1-8d90-4e27-aa20-c6d1a6b87b82"  width="100" height="80"/> <br>|<img src="https://github.com/jeeunKim/jeeunKim/assets/115774268/616525a9-2e48-4531-8728-848c757bbf87"  width="120" height="80"/> <br>|<img src="https://github.com/jeeunKim/jeeunKim/assets/115774268/b8741cdd-0592-4a7f-9415-2377c206bd93"  width="150" height="70"/> <br> |<img src="https://github.com/jeeunKim/jeeunKim/assets/115774268/6b83e7c7-e02d-4ef5-afc6-939f33c6888c"  width="150" height="70"/> <br>|
 |<img src="https://github.com/jeeunKim/jeeunKim/assets/115774268/00858f64-9fdc-4644-a196-439bef73eca1"  width="70" height="70"/> <br>||<img src="https://github.com/jeeunKim/jeeunKim/assets/115774268/f4b91f9a-e356-414f-b854-89fe3e377212"  width="70" height="70"/> <br>  **Notion**|<img src="https://github.com/jeeunKim/jeeunKim/assets/115774268/5f8084d7-1246-4170-ab09-59cbad14b84e"  width="60" height="70"/>|
 |||<img src="https://github.com/jeeunKim/jeeunKim/assets/115774268/e5be045e-e20a-4388-84d7-419e10ef50e8"  width="80" height="80"/>| <img src="https://github.com/jeeunKim/jeeunKim/assets/115774268/d6e802fe-55b8-4ab2-9c73-874893128a3f"  width="60" height="70"/> |
