@@ -4,7 +4,7 @@
 ### 학적 : Hallym Univ.
 ### 연락처 : 010-8752-8309
 ![human](https://github.com/jeeunKim/jeeunKim/assets/115774268/4cd70609-5085-400e-a8cf-3f6f667cc7b2)  ### : wpdms991229@naver.com
-<img src="[https://user-images.githubusercontent.com/51365114/119627750-716f3100-be47-11eb-8e83-686b23c2c161.png](https://github.com/jeeunKim/jeeunKim/assets/115774268/4cd70609-5085-400e-a8cf-3f6f667cc7b2)"  width="200" height="400"/>
+<img src="(https://github.com/jeeunKim/jeeunKim/assets/115774268/4cd70609-5085-400e-a8cf-3f6f667cc7b2)"  width="200" height="400"/>
 
 
 # *Stack*
