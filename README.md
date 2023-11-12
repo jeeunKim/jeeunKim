@@ -3,7 +3,7 @@
 ### 이름 : 김제은
 ### 학적 : Hallym Univ.
 ### 연락처 : 010-8752-8309
-<img src="![email](https://github.com/jeeunKim/jeeunKim/assets/115774268/270a41bb-756f-4f75-8c42-d794d7a6fbe4)" width="50" height="50"> : wpdms991229@naver.com
+<img src="[![email](https://github.com/jeeunKim/jeeunKim/assets/115774268/270a41bb-756f-4f75-8c42-d794d7a6fbe4)](https://github.com/jeeunKim/jeeunKim/issues/1#issue-1989402582)" width="50" height="50"> : wpdms991229@naver.com
 
 
 
