@@ -24,7 +24,7 @@
 
 <br>
 
-  ## 지도 위의 떨이 마켓   *StockTracker*  --->  [코드 리뷰](https://github.com/jeeunKim/StockTracker/tree/main/capstone/src/main/java/hello/capstone)
+  ## 지도 위의 떨이 마켓   *StockTracker*  --->  [코드 리뷰](https://github.com/jeeunKim/StockTracker/tree/main)
    ### 23.09 ~ 23.11 
    ### BE-2, FE-2 4인 팀프로젝트
     - 카카오, 네이버 소셜 로그인
