@@ -24,7 +24,7 @@
 
 <br>
 
-  ## 지도 위의 떨이 마켓   *StockTracker*  --->  [코드 리뷰](https://github.com/jeeunKim/StockTracker/tree/main)
+  ## 지도 위의 떨이 마켓   *StockTracker*  --->  [리뷰](https://github.com/jeeunKim/StockTracker/tree/main)
    ### 23.09 ~ 23.11 
    ### BE-2, FE-2 4인 팀프로젝트
     - 카카오, 네이버 소셜 로그인
@@ -41,7 +41,7 @@
  <br>
 </br>
 
-  ## 레시피 공유 웹사이트  *ShareRecipe*  --->  [코드 리뷰](https://github.com/jeeunKim/2023-1-Recipe-Web)
+  ## 레시피 공유 웹사이트  *ShareRecipe*  --->  [리뷰](https://github.com/jeeunKim/2023-1-Recipe-Web)
    ### 23.03 ~ 23.06 
    ### 1인 개인 프로젝트
     - 로그인 및 회원가입
