@@ -19,7 +19,7 @@
 <br>
 </br>
 
-**Now i'm Learning JPA, QueryDSL, Spring Data JPA**
+**현재 JPA, QueryDSL, Spring Data JPA에 대해 학습중입니다.**
 
 <br>
 </br>
