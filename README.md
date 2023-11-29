@@ -16,6 +16,10 @@
 |<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">||<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">|<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">|
 |<img src="https://github.com/jeeunKim/jeeunKim/assets/115774268/00858f64-9fdc-4644-a196-439bef73eca1"  width="70" height="70"/> <br>||<img src="https://img.shields.io/badge/EclpseIDE-2C2255?style=for-the-badge&logo=EclpseIDE&logoColor=white">|<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> |
 
+<br>
+</br>
+
+**Now i'm Learning JPA, QueryDSL, Spring Data JPA**
 
 <br>
 </br>
